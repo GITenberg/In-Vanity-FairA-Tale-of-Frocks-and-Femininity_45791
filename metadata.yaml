@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37391
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hoyt_Brainerd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45791#In-Vanity-FairA-Tale-of-Frocks-and-Femininity
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
 identifiers:
